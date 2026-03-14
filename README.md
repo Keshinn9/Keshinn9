@@ -6,14 +6,14 @@ I like programming and creating thing with it. I focus on building functional ap
 
 ---
 
+### ⚡About me
+- **Current Focus:** Sharpening my skills in Java, Python, and Full-Stack Web Development.
+- **Hobbies:** When I'm not debugging, I'm playing the guitar, going on rides on my bicycle, or reading manga/manwha.
+
 ### 📜 Certifications (TESDA NC)
 * **Visual Graphic Design NC III** (Valid until 2031)
 * **Computer Systems Servicing NC II** (Valid until 2030)
 * **Electronic Products Assembly and Servicing NC II** (Valid until 2030
-
-### ⚡About me
-- **Current Focus:** Sharpening my skills in Java, Python, and Full-Stack Web Development.
-- **Hobbies:** When I'm not debugging, I'm playing the guitar, going on rides on my bicycle, or reading manga/manwha.
 
 ### 🛠 Tech Stack & Tools
 
